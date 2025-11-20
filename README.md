@@ -44,17 +44,6 @@
 
 ---
 
-### 📈 **Статистика моего существования (онлайн-версия)**
-
-<div align="center">
-  
-  ![Статы](https://github-readme-stats.vercel.app/api?username=desparado616&show_icons=true&theme=dark&count_private=true&bg_color=0D1117&border_color=30363D&title_color=F85D7F&icon_color=F85D7F&text_color=C9D1D9)
-  
-  ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=despearado616&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&title_color=F85D7F&text_color=C9D1D9)
-
-</div>
-
----
 
 ### 🔮 **Чем сейчас занят?**
 
